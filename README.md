@@ -1,4 +1,4 @@
-# Criando um salt-formula no SUMA: telegraf-exporter
+# Usando o telegraf-exporter
 
 *Documentação disponível em <a href="https://docs.influxdata.com/telegraf/v1.14/">documentação Telegraf</a>*
 
