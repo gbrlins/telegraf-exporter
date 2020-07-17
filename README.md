@@ -1,6 +1,6 @@
 # Criando um salt-formula no SUMA: telegraf-exporter
 
-*Documentação disponível em <a href="https://docs.influxdata.com/telegraf/v1.14/">documentação Telegraf</a>
+*Documentação disponível em <a href="https://docs.influxdata.com/telegraf/v1.14/">documentação Telegraf</a>*
 
 Esse exemplo utiliza um host conectado no SUSE Manager. A instalação do Prometheus e do Grafana foram feito através do salt, no SUMA. A formula é implementada para ser utilizada com o SUSE Manager para ser aplciado diretamente nos salt-minions através da interface web.
 Esse tutorial foi feito para um host Ubuntu, 32bits (i386).
