@@ -5,6 +5,8 @@
 Esse exemplo utiliza um host conectado no SUSE Manager. A instalação do Prometheus e do Grafana foram feito através do salt, no SUMA. A formula é implementada para ser utilizada com o SUSE Manager para ser aplciado diretamente nos salt-minions através da interface web.
 Esse tutorial foi feito para um host Ubuntu, 32bits (i386).
 
+*Pre-requisitos: usb-devices, wget*
+
 Aplicar passo-a-passo no server SUSE Manager:
 
 # Passo a passo
