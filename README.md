@@ -27,5 +27,6 @@ telegraf config > telegraf.conf
 ```
 
 4. **Editar o arquivo config**: Para as métricas serem exportadas para o Prometheus, é necessário descomentar a parte de configuração de output. O arquivo de configuração fica em /etc/telegraf/telegraf.conf
+
 Em <a href="https://github.com/gbrlins/telegraf-exporter-formula/blob/master/telegraf.conf">telegraf.conf</a> possui um exemplo de configurações para teste. (Atentar-se em trocar as variáveis)
 
